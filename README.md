@@ -81,3 +81,4 @@ Birlashtirilgan kod: 027f8ef6-ddb9-4833-90b2-5d0c4addf982
 
 Yakuniy xabar: {"msg":"Salom, bu vazifadagi test POST sorovi, Qahramonov Mirshodbek tomonidan."}
 
+![Terminal natija](screenshots/terminal.png)
